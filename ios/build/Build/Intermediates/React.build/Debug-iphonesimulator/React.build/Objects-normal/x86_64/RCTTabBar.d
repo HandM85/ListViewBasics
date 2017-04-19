@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTView.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/sky/git/ListViewBasics/node_modules/react-native/React/Views/UIView+React.h
